@@ -1,1 +1,1 @@
-This is an Odin Project:Recipes where I showcase three recipes for my favorite dishes, created using only HTML.
+This project is part of my journey in The Odin Project, where I showcase three of my favorite dishes: Pork Adobo, Pork Giniling, and Fried Chicken. Created using only HTML, this project not only reflects my budding programming skills but also my appreciation for simple, delicious cooking. I’m excited to share these recipes as I continue to learn and grow in web development!
