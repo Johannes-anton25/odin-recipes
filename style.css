@@ -60,3 +60,16 @@ h3 {
 .image-container {
     padding: 20px;
 }
+
+p, .ingredient-list, .instruction-list {
+    margin: 0;
+    line-height: 1.2;
+}
+
+p {
+    padding: 40px;
+}
+
+.ingredient-list, .instruction-list {
+    padding: 15px;
+}
