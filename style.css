@@ -73,3 +73,7 @@ p {
 .ingredient-list, .instruction-list {
     padding: 15px;
 }
+
+strong {
+    font-size: 20px;
+}
