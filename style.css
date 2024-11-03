@@ -1,5 +1,6 @@
 body {
     background-color: orchid;
+    color: white;
 }
 
 h1 {
@@ -7,10 +8,23 @@ h1 {
     display: flex;
     justify-content: center;
     margin: 0;
+    color: gold;
 }
 
 .index .recipe-links{
     display: flex;
     justify-content: center;
     margin: 0;
+}
+
+.index .recipe-links a {
+    font-size: 25px;
+    line-height: 1.5;
+    color: yellow;
+    text-decoration: none;
+}
+
+.index .recipe-links a:hover {
+    color: aqua;
+    text-decoration: underline;
 }
