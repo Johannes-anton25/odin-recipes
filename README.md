@@ -1,5 +1,5 @@
 # Recipe Showcase
-Welcome to my Recipe Showcase! This project is part of my journey through [The Odin Project](https://www.theodinproject.com/) and features three of my favorite dishes: Pork Adobo, Pork Giniling, and Fried Chicken. Initially created using only HTML, I’ve recently enhanced the site with my newly learned CSS skills, making it more visually appealing and enjoyable to explore.
+Welcome to my Recipe Showcase! This project is part of my journey through [The Odin Project](https://www.theodinproject.com/) and features three of my favorite dishes: Pork Adobo, Pork Giniling, and Lumpia. Initially created using only HTML, I’ve recently enhanced the site with my newly learned CSS skills, making it more visually appealing and enjoyable to explore.
 
 # Overview
 As a food lover, I’m excited to share these recipes that I truly enjoy. Here’s what you can expect from this project:
