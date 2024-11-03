@@ -8,3 +8,9 @@ h1 {
     justify-content: center;
     margin: 0;
 }
+
+.index .recipe-links{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
