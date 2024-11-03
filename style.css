@@ -1,3 +1,7 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 body {
     background-color: orchid;
     color: white;
@@ -18,20 +22,34 @@ h2 {
     font-size: 30px;
 }
 
-.index .recipe-links{
+.index .recipe-links, .link-list{
     display: flex;
     justify-content: center;
     margin: 0;
 }
 
-.index .recipe-links a {
+.index .recipe-links a, .link-list a {
     font-size: 25px;
-    line-height: 1.5;
     color: yellow;
     text-decoration: none;
 }
 
-.index .recipe-links a:hover {
+.index .recipe-links a {
+    line-height: 1.5;
+}
+
+.index .recipe-links a:hover, .link-list a:hover {
     color: aqua;
     text-decoration: underline;
 }
+
+.link-list {
+    position: relative;
+    list-style-type: none;
+}
+
+.link-list li {
+    padding: 10px;
+    margin-right: 15px;
+}
+
