@@ -22,7 +22,7 @@ h3 {
     font-size: 30px;
 }
 
-.index .recipe-links, .link-list{
+.index .recipe-links, .link-list, .image-container {
     display: flex;
     justify-content: center;
     margin: 0;
@@ -55,4 +55,8 @@ h3 {
 
 .navigation {
     position: fixed;
+}
+
+.image-container {
+    padding: 20px;
 }
