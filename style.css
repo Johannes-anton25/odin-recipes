@@ -3,12 +3,19 @@ body {
     color: white;
 }
 
-h1 {
-    font-size: 50px;
+h1, h2 {
     display: flex;
     justify-content: center;
     margin: 0;
     color: gold;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
 }
 
 .index .recipe-links{
