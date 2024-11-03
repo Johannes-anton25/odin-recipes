@@ -1,0 +1,10 @@
+body {
+    background-color: orchid;
+}
+
+h1 {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
