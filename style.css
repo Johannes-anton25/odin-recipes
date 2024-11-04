@@ -1,79 +1,90 @@
 * {
-    font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 body {
-    background-color: orchid;
-    color: white;
+  background-color: orchid;
+  color: white;
 }
 
-h1, h3 {
-    display: flex;
-    justify-content: center;
-    margin: 0;
-    color: gold;
+h1,
+h3 {
+  display: flex;
+  justify-content: center;
+  margin: 25px;
+  padding: 20px;
+  color: gold;
 }
 
 h1 {
-    font-size: 50px;
+  font-size: 50px;
 }
 
 h3 {
-    font-size: 35px;
+  font-size: 35px;
 }
 
-.index .recipe-links, .link-list, .image-container {
-    display: flex;
-    justify-content: center;
-    margin: 0;
+.index .recipe-links,
+.link-list,
+.image-container {
+  display: flex;
+  justify-content: center;
+  margin: 0;
 }
 
-.index .recipe-links a, .link-list a, .navigation a {
-    font-size: 25px;
-    color: yellow;
-    text-decoration: none;
+.index .recipe-links a,
+.link-list a,
+.navigation a {
+  font-size: 25px;
+  color: yellow;
+  text-decoration: none;
 }
 
 .index .recipe-links a {
-    line-height: 1.5;
+  line-height: 1.5;
 }
 
-.index .recipe-links a:hover, .link-list a:hover, .navigation a:hover {
-    color: aqua;
-    text-decoration: underline;
+.index .recipe-links a:hover,
+.link-list a:hover,
+.navigation a:hover {
+  color: aqua;
+  text-decoration: underline;
 }
 
 .link-list {
-    position: relative;
-    list-style-type: none;
+  position: relative;
+  list-style-type: none;
 }
 
 .link-list li {
-    padding: 10px;
-    margin-right: 15px;
+  padding: 10px;
+  margin-right: 15px;
 }
 
 .navigation {
-    position: fixed;
+  position: fixed;
 }
 
 .image-container {
-    padding: 20px;
+  padding: 20px;
 }
 
-p, .ingredient-list, .instruction-list {
-    margin: 0;
-    line-height: 1.3;
+p,
+.ingredient-list,
+.instruction-list {
+  margin: 0;
+  line-height: 1.3;
 }
 
 p {
-    padding: 40px;
+  padding: 40px;
 }
 
-.ingredient-list, .instruction-list {
-    padding: 15px;
+.ingredient-list,
+.instruction-list {
+  padding: 15px;
 }
 
 strong {
-    font-size: 20px;
+  font-size: 20px;
 }
